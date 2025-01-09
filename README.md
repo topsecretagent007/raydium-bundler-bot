@@ -1,4 +1,4 @@
-### Token Bundler Bot V5.02
+### Token Bundler Bot V6
 
 ## summary
 
