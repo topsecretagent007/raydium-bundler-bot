@@ -59,3 +59,7 @@ Create the .env file by referring to .env.example.
   If you do this, the bot will work normally.
 
 ## If you have any questions while operating this bot, please feel free to contact me.
+
+This is my telegram address : https://t.me/topsecretagent_007
+
+Thank you.
