@@ -48,6 +48,9 @@ Create the .env file by referring to .env.example.
   ```
 
 6. Issues to consider when creating tokens
+![{88E4A10D-4D4D-4348-B3B7-37F92FB5FD1F}](https://github.com/user-attachments/assets/4ec0ed31-4298-4496-b9bb-ae50d654794d)
+![{E2B7E3DE-3164-4540-8857-6E013C3FF1B8}](https://github.com/user-attachments/assets/2910f07d-4cad-4a1a-bfc0-218ecd8b0ba5)
+
 
   After you start the bot, you should run it in the following order : 
   1 -> 2 -> 3 -> 1 -> 2 -> 4 -> 4 -> 5 -> 6 -> 7 -> 3 -> 3
