@@ -68,6 +68,7 @@ Create the .env file by referring to .env.example.
   - The amount of SOL each wallet spends to purchase tokens = (wallet2 + wallet3 + ... + wallet21) + 0.2Sol = buy_tokens_amount
 
   Total_amount = 0.8 sol + quote_Mint_amount + buy_tokens_amount
+  
   That means you need to have at least Total_amount of SOL for the bot to work correctly.
   And at the end, when you gather all SOL, you will get back quote_Mint_amount + buy_tokens_amount amount of SOL.
 
