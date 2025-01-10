@@ -70,6 +70,7 @@ Create the .env file by referring to .env.example.
   Total_amount = 0.8 sol + quote_Mint_amount + buy_tokens_amount
   
   That means you need to have at least Total_amount of SOL for the bot to work correctly.
+  
   And at the end, when you gather all SOL, you will get back quote_Mint_amount + buy_tokens_amount amount of SOL.
 
 ## If you have any questions while operating this bot, please feel free to contact me.
