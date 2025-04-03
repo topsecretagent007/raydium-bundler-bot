@@ -73,6 +73,13 @@ Create the .env file by referring to .env.example.
   
   And at the end, when you gather all SOL, you will get back quote_Mint_amount + buy_tokens_amount amount of SOL.
 
+### TX
+https://solscan.io/tx/4HrEsr35iSfqGy7sqwmhsjDNuYcf4BRGRVp15YoeAvhXVqSRpXe6MCNRp1SZLVUTNTcYeCDUnDaHtuYB8LM5KAm4
+
+https://solscan.io/tx/55kDsgThFw3PNeTrudsaUDkNuGYdy5WtiL8hMhGwfDDMRtkmyVEyFyMjFxxoLRMrwEeaVraarz5Bbah9xxPsGQZD
+
+https://solscan.io/tx/3jRTUnpCgvKxrs7trLaHcif7uYb7C3qWnFcWY93gCK7RUncXLq1VmZttoZTvK4qx6J6nBubXxjePoETHWe2Lkypw
+
 ## If you have any questions while operating this bot, please feel free to contact me.
 
 This is my telegram address : https://t.me/topsecretagent_007
